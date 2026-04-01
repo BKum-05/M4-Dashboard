@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BKum-05/M4-Dashboard/static/css/main.050a8244.css",
+    "main.js": "/BKum-05/M4-Dashboard/static/js/main.a192fba7.js",
+    "static/js/453.d313f61e.chunk.js": "/BKum-05/M4-Dashboard/static/js/453.d313f61e.chunk.js",
+    "index.html": "/BKum-05/M4-Dashboard/index.html",
+    "main.050a8244.css.map": "/BKum-05/M4-Dashboard/static/css/main.050a8244.css.map",
+    "main.a192fba7.js.map": "/BKum-05/M4-Dashboard/static/js/main.a192fba7.js.map",
+    "453.d313f61e.chunk.js.map": "/BKum-05/M4-Dashboard/static/js/453.d313f61e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.050a8244.css",
+    "static/js/main.a192fba7.js"
+  ]
+}
